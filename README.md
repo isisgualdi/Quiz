@@ -5,6 +5,7 @@ Quiz para por em prática meus estudos introdutórios em HTML, CSS e JS
 ## Inspirações
 - https://github.com/douglasabnovato/quiz-app
 - https://github.com/florinpop17/app-ideas
+- 
 
 
 ## Objetivos
@@ -23,4 +24,6 @@ Quiz para por em prática meus estudos introdutórios em HTML, CSS e JS
 - HTML/CSS
 - VSCode
 
-## Passo a passo
+## Registros
+- https://trello.com/invite/b/mY1w1udD/45724979700d33213847703c3fd44468/quiz-app
+
