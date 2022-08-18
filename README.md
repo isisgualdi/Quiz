@@ -3,8 +3,8 @@ Quiz para por em prática meus estudos introdutórios em HTML, CSS e JS
 
 ## Inspirações
 - https://github.com/douglasabnovato/quiz-app
-- https://github.com/florinpop17/app-ideas
-</br>
+- https://github.com/florinpop17/app-ideas </br>
+
 ## Objetivos
 - Começar o quiz pressionando um botão
 - Pergunta com 4 possibilidades de respostas
