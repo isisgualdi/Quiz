@@ -1,4 +1,4 @@
-# Quiz: Mudo Científico
+# Quiz: Mumdo Científico
 Quiz para por em prática meus estudos introdutórios em HTML, CSS e JS
 
 
@@ -8,10 +8,10 @@ Quiz para por em prática meus estudos introdutórios em HTML, CSS e JS
 
 
 ## Futuras melhorias
-- [] Começar o quiz pressionando um botão
-- [x] Pergunta com 4 possibilidades de respostas
-- [] Após a resposta, mostrar a próxima pergunta até finalizar o quiz
-- [] No final é possível visualizar o tempo, quantas respostas corretas e uma mensagem dizendo se a pessoa foi bem ou não
+- [x] Começar o quiz pressionando um botão
+- [x] Após a resposta, mostrar a próxima pergunta até finalizar o quiz
+- [x] No final é possível visualizar o tempo, quantas respostas corretas e uma mensagem dizendo se a pessoa foi bem ou não
+- Pergunta com 4 possibilidades de respostas
 
 
 ## Tecnologias/Detalhes
