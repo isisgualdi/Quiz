@@ -1,7 +1,7 @@
 # Quiz: Mudo Científico
 Quiz para por em prática meus estudos introdutórios em HTML, CSS e JS
 
-- Estilo![astronauta jpg](https://user-images.githubusercontent.com/110922331/185276188-4fc5091d-6edd-49cf-92a2-3c205a8f9323.jpg)
+[astronauta jpg](https://user-images.githubusercontent.com/110922331/185276188-4fc5091d-6edd-49cf-92a2-3c205a8f9323.jpg)
 
 ## Inspirações
 - https://github.com/douglasabnovato/quiz-app
